@@ -1,6 +1,6 @@
 order_id,customer,city,product,quantity,unit_price
 1001,Ali,Karachi,Laptop,1,120000
 1002,Sara,Lahore,Phone,2,60000
-1003,Ahmed,Karachi,Headphones,4,5000
+1003,Ahmed,Karachi,Headphones,6,5000
 1004,Ayesha,Islamabad,Keyboard,2,7500
 
